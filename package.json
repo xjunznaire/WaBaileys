@@ -1,16 +1,16 @@
 {
-    "name": "kayzennotdev/bail",
-    "version": "1.7.3",
-    "description": "Have A Nice Day",
+    "name": "Razzzx-notdevy/WaBaileys",
+    "version": "1.0.0",
+    "description": "Baileys By @RazzxIsBack",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/kayzennotdev/bail",
+    "homepage": "https://github.com/Razzx-notdev/WaBaileys",
     "repository": {
-        "url": "https://github.com/kayzennotdev/bail"
+        "url": "https://github.com/Razzx-notdev/WaBaileys"
     },
     "license": "MIT",
-    "author": "kayzennotdev",
+    "author": "RazzxIsBack",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://kayzennotdev/bail/issues"
+      "url": "https://Razzx-notdev/WaBaileys/issues"
     }
 }
